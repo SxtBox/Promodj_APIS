@@ -18,3 +18,4 @@ Hosted Files https://paidcodes.albdroid.al/Promodj/
 ![Logo](https://github.com/SxtBox/Promodj_APIS/blob/main/Screenshots/JW_Player.png?raw=true?raw=true)
 ![Logo](https://github.com/SxtBox/Promodj_APIS/blob/main/Screenshots/KODI.png?raw=true?raw=true)
 ![Logo](https://raw.githubusercontent.com/SxtBox/Promodj_APIS/main/Screenshots/Smart_TV.png?raw=true)
+![Logo](https://github.com/SxtBox/Promodj_APIS/blob/main/Screenshots/VLC.png?raw=true)
